@@ -24,11 +24,11 @@
 */
 
 #include <ESP8266WiFi.h>
-#include <PubSubClient.h>
+#include "src/PubSubClient/PubSubClient.h"
 
 // Update these with values suitable for your network.
 
-const char* ssid = "Motel6";
+const char* ssid = "";
 const char* password = "";
 const char* mqtt_server = "test.mosquitto.org";
 

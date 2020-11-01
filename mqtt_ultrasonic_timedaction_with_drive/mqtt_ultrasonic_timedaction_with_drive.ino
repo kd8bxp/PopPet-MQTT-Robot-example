@@ -47,12 +47,12 @@
  */
 
 #include <ESP8266WiFi.h>
-#include <PubSubClient.h>
-#include <TimedAction.h>
+#include "src/PubSubClient/PubSubClient.h"
+#include "src/TimedAction/TimedAction.h"
 
 // Update these with values suitable for your network.
 
-const char* ssid = "Motel6";
+const char* ssid = "";
 const char* password = "";
 
 //MQTT Variables

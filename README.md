@@ -7,6 +7,10 @@ Basic MQTT control example for robot. Using a NodeMCU board (ESP8266) with a Nod
 See https://docs.google.com/document/d/1Rc6zFJoXdAuQ3uHfjGRL2gKZX8IYP2_uwqtnBwkpkiE/edit?usp=sharing
 for more information.
 
+## Libraries
+
+Because the Arduino IDE has been getting pretty bad handling libraries, I've included the libraries used in the src directory of the sketch. These libraries may have been slightly modified to work from the sketch directory, and do not include the examples.  
+
 ## Things To Do
 
 Would like to add speed control, and find a better interface.
