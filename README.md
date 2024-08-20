@@ -1,3 +1,7 @@
+# Archived Aug 20, 2024
+
+I no longer own this robot, I am currently not planning on working on this code. It is left for historical reasons. You maybe able to adapted the code for other two wheel robots, no promises. 
+
 # PopPet 2 Wheeled Robot
 
 Basic MQTT control example for robot. Using a NodeMCU board (ESP8266) with a NodeMCU motor driver board.
